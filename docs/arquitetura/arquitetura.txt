@@ -1,0 +1,3 @@
+A Arquitetura de Sistemas de Informação tem como foco principal a análise das necessidades dos usuários dentro de um possível sistema a ser desenvolvido. Para isto, a mesma procura não se aprofundar em detalhes tecnológicos, mas sim se concentrar em que o cliente realmente precisa, levando em conta ainda as características do negócio em que o mesmo está inserido.
+
+Logo, conclui-se que os analistas envolvidos neste processo terão de compreender o funcionamento, bem como os objetivos, da organização para a qual estão prestando este serviço.
