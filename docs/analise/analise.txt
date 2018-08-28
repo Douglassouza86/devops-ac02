@@ -1,0 +1,14 @@
+mercado em que atuam, as empresas necessitam cada
+vez mais de Sistemas de Informação (SI) que possam integrar suas informações. Para isso, é fundamental
+a importância da criação de uma equipe de projetos e a clara identificação das etapas para que a
+implantação de sistemas seja executada com eficiência e garantia do resultado esperado. Este estudo de
+caso, realizado em uma empresa de pequeno porte da área de automação industrial, é baseado em
+entrevistas semi-estruturadas, com funcionários-chave da empresa. O objetivo principal do estudo
+compreende em analisar as etapas seguidas para a implantação de um sistema integrado (Enterprise
+Resource Planning – ERP). Foram identificadas na literatura e na empresa as etapas seguidas para a
+implantação do sistema e feita uma comparação entre essas etapas. Percebeu-se que a maioria das etapas
+para a implantação de um sistema ERP encontradas na literatura foram utilizadas na prática. Algumas
+dessas etapas foram cumpridas totalmente, outras parcialmente e algumas não foram consideradas.
+Destaca-se que as etapas não cumpridas não comprometeram o êxito processo, sendo que os resultados
+esperados foram obtidos pela empresa. Ao final da pesquisa sugere-se um roteiro para a implementação
+de sistemas ERP em empresas de pequeno porte.
